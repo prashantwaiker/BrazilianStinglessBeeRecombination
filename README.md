@@ -1,6 +1,7 @@
 # Brazilian Stingless Bee (Frieseomelita varia) Recombination map
 
-![alt text](https://https://github.com/prashantwaiker/BrazilianStinglessBeeRecombination/fvaria.jpg?raw=true)
+![alt text](https://github.com/prashantwaiker/BrazilianStinglessBeeRecombination/blob/2040c7aa49e0c7898ec8254e1bd5bded195de8a0/fvaria.jpeg?raw=true)
+
 This repository contains data and scripts used to construct high-density linkage map for frieseomelitta varia (Waiker et al 2021, BMC Genomics). The summarized workflow was as follows:
 
 ## VCF file filtering on Bash
