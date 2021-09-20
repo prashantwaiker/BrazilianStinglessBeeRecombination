@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/prashantwaiker/BrazilianStinglessBeeRecombination/blob/2040c7aa49e0c7898ec8254e1bd5bded195de8a0/fvaria.jpeg?raw=true)
 
-This repository contains data and scripts used to construct high-density linkage map for frieseomelitta varia (Waiker et al 2021, BMC Genomics). The summarized workflow was as follows:
+This repository contains data and scripts used to construct high-density linkage map for frieseomelitta varia [Waiker et. al](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07987-3). The summarized workflow was as follows:
 
 ## VCF file filtering on Bash
 ### Filerting raw .VCF files and ecxtraction of genotypes
