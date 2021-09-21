@@ -4,6 +4,10 @@
 
 This repository contains data and scripts used to construct high-density linkage map for frieseomelitta varia [Waiker et. al](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07987-3). The summarized workflow was as follows:
 
+## Data Availibility: [NCBI](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA668370)
+
+
+
 ## VCF file filtering on Bash
 ### Filerting raw .VCF files and ecxtraction of genotypes
 (1) SNPs filtered for at least 50% missing data, minimum quality score of 30 and Minor allele frequency of 3:
